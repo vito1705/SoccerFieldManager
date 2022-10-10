@@ -1,0 +1,9 @@
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\bin\Debug\SoccerFieldManager.exe.config
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\bin\Debug\SoccerFieldManager.exe
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\bin\Debug\SoccerFieldManager.pdb
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.csproj.AssemblyReference.cache
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.Properties.Resources.resources
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.csproj.GenerateResource.cache
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.csproj.CoreCompileInputs.cache
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.exe
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.pdb
