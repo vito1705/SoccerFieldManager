@@ -7,3 +7,4 @@ C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\S
 C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.csproj.CoreCompileInputs.cache
 C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.exe
 C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.pdb
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.Form1.resources
