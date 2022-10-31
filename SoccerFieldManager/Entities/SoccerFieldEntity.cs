@@ -11,5 +11,8 @@ namespace SoccerFieldManager.Entities
     {
         [Key]
         public long Id { get; set; }
+        public long IdFatherSoccerField { get; set; }
+        public string Name { get; set; }
+        public long Price { get; set; }
     }
 }

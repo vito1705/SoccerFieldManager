@@ -34,3 +34,5 @@ C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\bin\Debug\S
 C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\bin\Debug\EntityFramework.xml
 C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.ConfigForm.resources
+C:\Users\Vito\Documents\GitHub\SoccerFieldManager\SoccerFieldManager\obj\Debug\SoccerFieldManager.SoccerFieldForm.resources

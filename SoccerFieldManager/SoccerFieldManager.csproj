@@ -91,8 +91,17 @@
     <Compile Include="AddUserForm.Designer.cs">
       <DependentUpon>AddUserForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigForm.Designer.cs">
+      <DependentUpon>ConfigForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="DataAccess\AppData.cs" />
+    <Compile Include="DataAccess\AppDataReservation.cs" />
+    <Compile Include="DataAccess\AppDataSoccerField.cs" />
     <Compile Include="DataAccess\Define.cs" />
+    <Compile Include="Entities\ReservationEntity.cs" />
     <Compile Include="Entities\SoccerFieldEntity.cs" />
     <Compile Include="Entities\UserEntity.cs" />
     <Compile Include="Form1.cs">
@@ -122,8 +131,17 @@
     <Compile Include="SearchClientForm.Designer.cs">
       <DependentUpon>SearchClientForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="SoccerFieldForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoccerFieldForm.Designer.cs">
+      <DependentUpon>SoccerFieldForm.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="AddUserForm.resx">
       <DependentUpon>AddUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigForm.resx">
+      <DependentUpon>ConfigForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -147,7 +165,11 @@
     <EmbeddedResource Include="SearchClientForm.resx">
       <DependentUpon>SearchClientForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="SoccerFieldForm.resx">
+      <DependentUpon>SoccerFieldForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\SoccerFieldManager.Entities.ReservationEntity.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
